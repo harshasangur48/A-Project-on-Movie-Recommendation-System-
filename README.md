@@ -55,7 +55,7 @@ A personalized movie recommendation system using collaborative filtering techniq
     - "Open the notebook and follow the prompts to select genre and generate recommendations."
 
 example_output: |
-    ```
+    
     Enter your name: Prashanth Neel
     Choose genre: Action
     Prioritize Indian movies? (yes/no): no
@@ -64,24 +64,32 @@ example_output: |
     • The Dark Knight (2008) - ⭐ 4.72
     • Seven Samurai (1954) - ⭐ 4.52
     • Blade Runner (1982) - ⭐ 4.41
-    ```
+    
 
   future_scope:
-    - "Combine collaborative and content-based filtering for hybrid recommendations."
-    - "Develop a web or mobile app interface using Streamlit or React."
-    - "Integrate real-time movie data from APIs like TMDB or IMDb."
-    - "Apply sentiment analysis on user reviews."
-    - "Enable explainable and diverse recommendations."
-    - "Add user account support for personalized history tracking."
-    - "Support multi-language and region-based filtering."
+    - Combine collaborative and content-based filtering for hybrid recommendations.
+
+    
+    - Develop a web or mobile app interface using Streamlit or React.
+
+    
+    - Integrate real-time movie data from APIs like TMDB or IMDb.
+
+    
+    -  Apply sentiment analysis on user reviews.
+
+    
+    - Enable explainable and diverse recommendations.
+
+    
+    - Add user account support for personalized history tracking.
+
+    
+    - Support multi-language and region-based filtering.
 
   license:
-    type: "MIT License"
-    link: "./LICENSE"
-
-  contributions:
-    message: "Contributions are welcome!"
-    instructions: "Feel free to fork this repository, submit issues, or create pull requests."
+    type: MIT License
+   
 
   contact:
     email: harshasangur048@gmail.com
