@@ -40,3 +40,18 @@ A personalized movie recommendation system using collaborative filtering techniq
    ```bash
    git clone https://github.com/your-username/movie-recommendation-system.git
    cd movie-recommendation-system
+
+
+   - "Install required libraries:"
+    - |
+      ```bash
+      pip install pandas numpy matplotlib seaborn scikit-surprise
+      ```
+    - "Launch the Jupyter Notebook:"
+    - |
+      ```bash
+      jupyter notebook
+      ```
+    - "Open the notebook and follow the prompts to select genre and generate recommendations."
+
+example_output: |
