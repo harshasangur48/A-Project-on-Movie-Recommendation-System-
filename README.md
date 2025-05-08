@@ -67,6 +67,8 @@ example_output: |
     
 
   future_scope:
+
+  
     - Combine collaborative and content-based filtering for hybrid recommendations.
 
     
